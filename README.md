@@ -30,6 +30,7 @@ Here is the graph representation used in tooltip:
 
 Another tooltip is:
 
+![Image](https://github.com/user-attachments/assets/d2d5d6b1-b851-4b5b-aefe-fad9f227a77c)
 
         
 Product Sales Data Analytics Dashboard
