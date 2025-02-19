@@ -105,9 +105,11 @@ Profitability Insights: Bar charts highlight the most profitable products.
 
 Order Tracking: Sales and order volume are analyzed per month, quarter, and year.
 
-
+Page 2:
 ![Image](https://github.com/user-attachments/assets/23a49294-9f38-4438-91d3-f43d4803917b)
 
+Page3:
+![Image](https://github.com/user-attachments/assets/c00909a9-297c-4e1c-9f0e-f4288716ded3)
 
 Conclusion
 
